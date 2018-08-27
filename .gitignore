@@ -1,0 +1,6 @@
+build/
+kama
+kama.py
+kama_wrap.cxx
+lib/
+__pycache__/
